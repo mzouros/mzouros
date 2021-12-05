@@ -1,5 +1,5 @@
 # Developer | Researcher | Photographer #
-- [IMSI - Information Management Systems Institute](https://www.athenarc.gr/en/imsi) of the "ATHENA" Research and Innovation Center in Information Communication and Knowledge Technologies
+- [IMSI - Information Management Systems Institute](https://www.athenarc.gr/en/imsi) of the "ATHENA" Research and Innovation Center
 - [DIT - Dpt of Informatics and Telecommunications](https://www.di.uoa.gr/en) of the National and Kapodistrian University of Athens
 - [MaDgIK - Management of Data Information & Knowledge Group](https://www.madgik.di.uoa.gr/)
 ************************************************************************************************************************************************
