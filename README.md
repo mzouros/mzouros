@@ -7,9 +7,9 @@
 
 ---
 
-| | | |
-|-|-|-|
-| ![loop](https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif) | [LinkedIn](https://www.linkedin.com/in/michael-zouros/) <br><br> [Research](https://ieeexplore.ieee.org/document/10090112) <br><br> [Portofolio](https://www.michaelzouros.com/) | ![loop](https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif) |
-| | | |
+| | |
+|-|-|
+| ![loop](https://user-images.githubusercontent.com/41365637/110252497-73cf9680-7f8e-11eb-9086-c4412505a924.gif) | [LinkedIn](https://www.linkedin.com/in/michael-zouros/) <br><br> [Research](https://ieeexplore.ieee.org/document/10090112) <br><br> [Portofolio](https://www.michaelzouros.com/) |
+| | |
 
 </div>
